@@ -11,8 +11,8 @@ from PIL import ImageTk,Image
 
 # Define useful parameters
 size_of_board = 600
-rows = 10
-cols = 10
+rows = 20
+cols = 20
 DELAY = 100
 snake_initial_length = 3
 symbol_size = (size_of_board / 3 - size_of_board / 8) / 2
