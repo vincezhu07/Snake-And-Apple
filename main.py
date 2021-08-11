@@ -31,7 +31,7 @@ class SnakeAndApple:
     # ------------------------------------------------------------------
     def __init__(self):
         self.window = Tk()
-        self.window.title("Snake-and-Apple")
+        self.window.title("Snake-and-Apple Modified by Vincent")
         self.canvas = Canvas(self.window, width=size_of_board, height=size_of_board)
         self.canvas.pack()
         # Input from user in form of clicks and keyboard
